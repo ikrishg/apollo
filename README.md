@@ -2,7 +2,7 @@
 
 Astro Blog built for Speed ⚡️
 
-[![A screenshot of the Apollo Website](https://github.com/kkrishguptaa/apollo/raw/main/.github/screenshot.png)](https://blog.krishg.com)
+[![A screenshot of the Apollo Website](https://github.com/ikrishg/apollo/raw/main/.github/screenshot.png)](https://blog.krishg.com)
 
 ## 👋 Introduction
 
@@ -37,14 +37,14 @@ It uses [Astro's RSS integration](https://docs.astro.build/en/recipes/rss/) to g
 
 This website is hosted on Vercel. If you want to deploy it yourself, you can use this handy button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Fapollo&demo-title=Apollo&demo-description=Astro%20Blog%20built%20for%20Speed%20%E2%9A%A1%EF%B8%8F&demo-url=https%3A%2F%2Fblog.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Fapollo%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fikrishg%2Fapollo&demo-title=Apollo&demo-description=Astro%20Blog%20built%20for%20Speed%20%E2%9A%A1%EF%B8%8F&demo-url=https%3A%2F%2Fblog.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fikrishg%2Fapollo%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
 
 ## ✌️ Running Locally
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kkrishguptaa/apollo.git
+   git clone https://github.com/ikrishg/apollo.git
    ```
 2. Navigate to the project directory:
 
