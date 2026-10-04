@@ -45,7 +45,7 @@ Make sure to check the box that says "Initialize this repository with a README".
 Now open a terminal and open a folder where you want to clone your repository. Git will create a folder with the name of your repository in that folder.
 
 ```bash
-git clone https://github.com/kkrishguptaa/mission-teach-em-git.git
+git clone https://github.com/ikrishg/mission-teach-em-git.git
 
 # REPLACE THE URL WITH YOUR REPOSITORY URL
 ```
