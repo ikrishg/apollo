@@ -44,7 +44,7 @@ Especially about Linux,
 
 ![A GIF mocking Linux's Window Servers](~assets/mocking-linux-users.webp)
 
-What most people don't realize is that almost all of the code in your browser is open source. The entirety of the internet's backend is also open source, as is this [blog](https://github.com/kkrishguptaa/apollo) and the software used to built it! It does not take a good while to realize how much of your life is open source.
+What most people don't realize is that almost all of the code in your browser is open source. The entirety of the internet's backend is also open source, as is this [blog](https://github.com/ikrishg/apollo) and the software used to built it! It does not take a good while to realize how much of your life is open source.
 
 ## Why should you care?
 

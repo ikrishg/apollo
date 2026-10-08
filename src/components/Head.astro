@@ -85,7 +85,7 @@ const { type, image } = { ...defaultProps.ogp, ...props.ogp };
   <meta property="og:article:published_time" content={Astro.props.ogp.article.publishedTime} />
   <meta property="og:article:modified_time" content={Astro.props.ogp.article.modifiedTime} />
   <meta property="og:article:author" content="Krish Gupta" />
-  <meta property="og:article:author:username" content="kkrishguptaa" />
+  <meta property="og:article:author:username" content="ikrishg" />
 )}
 
 {Astro.props.ogp?.type == 'article' && Astro.props.ogp.article.tags.map((tag) => (
@@ -98,8 +98,8 @@ const { type, image } = { ...defaultProps.ogp, ...props.ogp };
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={new URL(image.src, siteUrl)} />
-<meta name="twitter:creator" content="@kkrishguptaa" />
-<meta name="twitter:site" content="@kkrishguptaa" />
+<meta name="twitter:creator" content="@ikrishg" />
+<meta name="twitter:site" content="@ikrishg" />
 
 <Font cssVariable='--font-space-grotesk' />
 <Font cssVariable='--font-lexend' />
